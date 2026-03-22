@@ -1,6 +1,11 @@
-# 💫 About Me:
-Hi 👋, I'm Shobhit Engineer/Creator I am a Cloud and DevOps Engineer ☁️, AWS Community Builder 🏗️ 📺. Passionate about helping people get into Cloud and sharing my learnings in Cloud, DevOps.
+Hi, I'm Shobhit Pachkhande 👋  
+I am currently pursuing MCA and have a strong foundation in software development, cloud technologies, and system operations.
 
+I enjoy working on real-world projects involving Python, AWS, and modern tools like Docker and Jenkins. I have experience in building applications, deploying them on cloud infrastructure, and implementing CI/CD pipelines.
+
+I am a quick learner and always eager to explore new technologies and improve my skills. I am currently seeking opportunities to start my career in the IT industry.
+
+🔧 Skills: Python, AWS, Docker, Jenkins, Git, Linux  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___shobhitt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shobhitpachkhande@gmail.com) 
